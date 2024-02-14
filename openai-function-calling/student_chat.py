@@ -118,5 +118,5 @@ def run_conversation(message):
 
 
 if __name__ == '__main__':
-    print(run_conversation("I am not well today. I want to apply for leave today").choices[0].message.content)
+    # print(run_conversation("I am not well today. I want to apply for leave today").choices[0].message.content)
     print(run_conversation("My registration number is 1000. What is my marks?").choices[0].message.content)

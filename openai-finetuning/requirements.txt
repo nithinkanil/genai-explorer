@@ -1,0 +1,7 @@
+langchain_community
+openai
+pypdf
+langchain
+langchain_openai
+llama-index
+black
